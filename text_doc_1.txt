@@ -1,0 +1,3 @@
+some string of text
+another string of text
+UNWANTED LINE
